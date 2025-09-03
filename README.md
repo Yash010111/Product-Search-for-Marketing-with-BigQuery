@@ -46,6 +46,6 @@ bq query --use_legacy_sql=false 'SELECT * FROM products.products_information WHE
 <a href="https://www.instagram.com/yash.paraskar0208/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Follow_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white&gradient=linear-gradient(90deg, #E4405F, #C13584)" alt="Instagram"/>
 </a>
-<a href="https://www.instagram.com/drabhishek.5460/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/yash-paraskar-97a873271/" target="_blank" style="text-decoration: none;">
   <img src="https://tse2.mm.bing.net/th/id/OIP.Idv3um5LvEcT7k_MjNNpoQHaCd?r=0&w=729&h=242&rs=1&pid=ImgDetMain&o=7&rm=3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=white&gradient=linear-gradient(90deg, #E4405F, #C13584)" alt="Linkedin" width="100" height="100"/>
 </a>
