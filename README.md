@@ -37,10 +37,8 @@ bq query --use_legacy_sql=false 'SELECT * FROM products.products_information WHE
 ```
 ### Congratulations !!!!
 
-### IF NOT WORKING KINDLY INFORM VIA DM
-```
-+91 9371574317
-```
+### IF NOT WORKING KINDLY INFORM VIA ISSUE
+
 
 ### CONNECT WITH INSTAGRAM AND LINKEDIN
 <a href="https://www.instagram.com/yash.paraskar0208/" target="_blank" style="text-decoration: none;">
